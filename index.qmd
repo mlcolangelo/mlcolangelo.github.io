@@ -1,5 +1,17 @@
 ---
-title: "mlcolangelo.github.io"
+title: "Mia's Website"
+image: ari.jpeg
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 5cm
+  links: 
+    - text: LinkedIn
+      href: //https://www.linkedin.com/in/mia-colangelo/
+    - text: Email
+      href: //miacola@colostate.edu
+    - text: Research Information
+    - text: Warner College of Natural Resources
 ---
 
 This is a Quarto website.
