@@ -1,6 +1,6 @@
 ---
 title: "Mia's Website"
-image: ari.jpeg
+image: docs/images/IMG_9587.jpeg
 about:
   template: marquee
   image-shape: rectangle
