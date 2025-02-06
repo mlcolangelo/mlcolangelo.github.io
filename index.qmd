@@ -1,6 +1,6 @@
 ---
 title: "Mia's Website"
-image: github/mlcolangelo.github.io/images/IMG_9587.jpeg
+image: Home/Desktop/ari.jpeg
 about:
   template: marquee
   image-shape: rectangle
