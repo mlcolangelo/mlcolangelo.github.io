@@ -1,6 +1,5 @@
 ---
 title: "Mia's Website"
-image: Home/Desktop/ari.jpeg
 about:
   template: marquee
   image-shape: rectangle

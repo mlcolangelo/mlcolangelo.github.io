@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mia’s Website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi there! I’m Mia, a second-year undergrad at Colorado State University. I’m pursuing a B.S. in Ecosystem Science and Sustainability, with a minor in Geospatial Information Science."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Resume",
+    "section": "",
+    "text": "MIA COLANGELO\nHuntington Beach, CA / Fort Collins, CO\nMIALAUREN929@GMAIL.COM\n714.916.8335"
+  },
+  {
+    "objectID": "CV.html#colorado-state-university",
+    "href": "CV.html#colorado-state-university",
+    "title": "Resume",
+    "section": "COLORADO STATE UNIVERSITY",
+    "text": "COLORADO STATE UNIVERSITY\n\nFort Collins, Colorado                  August 2023 - May 2027\n·       Major in Ecosystem Science and Sustainability, working towards a B.S.\n·       Minor in Geospatial Information Science (GIS)\n·       University Honors Program\nGPA: 3.45"
+  },
+  {
+    "objectID": "CV.html#huntington-beach-high-school",
+    "href": "CV.html#huntington-beach-high-school",
+    "title": "Resume",
+    "section": "HUNTINGTON BEACH HIGH SCHOOL",
+    "text": "HUNTINGTON BEACH HIGH SCHOOL\n\nHuntington Beach, California              August 2019-June 2023\n●      10+ AP/Honors Classes, 4 years of Student Leadership\nGPA: 4.32"
+  },
+  {
+    "objectID": "about.html#building-a-project-website",
+    "href": "about.html#building-a-project-website",
+    "title": "About",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Knapp Research Lab\nESS 330\nIn the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+  },
+  {
+    "objectID": "projects.html#building-a-project-website",
+    "href": "projects.html#building-a-project-website",
+    "title": "Projects",
+    "section": "Building a project website",
+    "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!\n\nNR 319"
   }
 ]

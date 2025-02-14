@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Hi there! I'm Mia, a second-year undergrad at Colorado State University. I'm pursuing a B.S. in Ecosystem Science and Sustainability, with a minor in Geospatial Information Science.

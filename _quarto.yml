@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - CV.qmd
+      - projects.qmd
       
 
 format:
@@ -17,6 +18,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-location: right
+    
 
 editor: visual
 
