@@ -1,5 +1,12 @@
 ---
 title: "About"
+navbar:
+  left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - CV.qmd
+      - projects.qmd
 ---
 
 Hi there! I'm Mia, a second-year undergrad at Colorado State University. I'm pursuing a B.S. in Ecosystem Science and Sustainability, with a minor in Geospatial Information Science.
