@@ -12,7 +12,7 @@ website:
         text: Home
       - about.qmd
       - CV.qmd
-      - Projects.qmd
+      - projects.qmd
 ---
 
 MIA COLANGELO
