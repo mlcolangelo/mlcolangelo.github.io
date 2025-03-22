@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "Hi there! I’m Mia, a second-year undergrad at Colorado State University. I’m pursuing a B.S. in Ecosystem Science and Sustainability, with a minor in Geospatial Information Science."
+    "text": "Hi there! I’m Mia, a second-year undergrad at Colorado State University. I’m pursuing a B.S. in Ecosystem Science and Sustainability, with minors in Geospatial Information Science and Conservation Biology. While my academic pursuits lie in improving the well-being of our planet and its wildlife, I am also passionate about music and the arts, and am a volunteer puppy raiser for Canine Companions.\n\n\n\nMe and Future Service Dog, Aribella."
   },
   {
     "objectID": "CV.html",
@@ -46,13 +46,34 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Knapp Research Lab\nESS 330\nIn the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!"
+    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Dept. of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
   },
   {
     "objectID": "projects.html#building-a-project-website",
     "href": "projects.html#building-a-project-website",
     "title": "Projects",
     "section": "Building a project website",
-    "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!\n\nNR 319"
+    "text": "Building a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
+    "objectID": "projects.html#knapp-research-lab",
+    "href": "projects.html#knapp-research-lab",
+    "title": "Projects",
+    "section": "",
+    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Dept. of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
+  },
+  {
+    "objectID": "projects.html#ess-330",
+    "href": "projects.html#ess-330",
+    "title": "Projects",
+    "section": "ESS 330",
+    "text": "ESS 330\nIn the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!\n\nBuilding a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+  },
+  {
+    "objectID": "projects.html#nr-319",
+    "href": "projects.html#nr-319",
+    "title": "Projects",
+    "section": "NR 319",
+    "text": "NR 319"
   }
 ]

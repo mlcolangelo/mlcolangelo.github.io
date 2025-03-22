@@ -1,7 +1,7 @@
 ---
-title: "About"
- navbar:
-    left:
+title: "About Me"
+navbar:
+  left:
       - href: index.qmd
         text: Home
       - about.qmd
@@ -9,4 +9,6 @@ title: "About"
       - projects.qmd
 ---
 
-Hi there! I'm Mia, a second-year undergrad at Colorado State University. I'm pursuing a B.S. in Ecosystem Science and Sustainability, with a minor in Geospatial Information Science.
+Hi there! I'm Mia, a second-year undergrad at Colorado State University. I'm pursuing a B.S. in Ecosystem Science and Sustainability, with minors in Geospatial Information Science and Conservation Biology. While my academic pursuits lie in improving the well-being of our planet and its wildlife, I am also passionate about music and the arts, and am a volunteer puppy raiser for Canine Companions.
+
+![Me and Future Service Dog, Aribella.](images/IMG_9587.jpeg)

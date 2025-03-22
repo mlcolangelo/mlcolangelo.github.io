@@ -1,29 +1,38 @@
 ---
 title: "Projects"
-format: html
- navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - CV.qmd
-      - projects.qmd
+navbar:
+  title: "My Projects"
+  left:
+    - href: index.qmd
+      text: "Home"
+    - href: projects.qmd
+      text: "Projects"
 ---
 
-Knapp Research Lab
+## Knapp Research Lab
 
--   SRRE Project
+I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Dept. of Biology), and have been a part of multiple research projects.
 
--   DRE Project
+-   Salsola Removal & Recovery Experiment (SRRE) Project
 
-ESS 330
+    -   Presented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.
 
-In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
+    -   Assisted with measurements of productivity, light availability, and water availability.
 
-## [Building a project website]()
+    -   Established and maintained study plots.
+
+-   Drought Recovery Experiment (DRE) Project
+
+    -   Assisted with continued measurements such as phenology, soil moisture,
+
+## ESS 330
+
+In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
+
+### [Building a project website]()
 
 -   In this assignment we built a static users site with Github Pages
 -   Includes a github repo for access to all the code.
 -   Look at how high quality my work is!
 
-NR 319
+## NR 319
