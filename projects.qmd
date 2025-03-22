@@ -7,6 +7,10 @@ navbar:
       text: "Home"
     - href: projects.qmd
       text: "Projects"
+    - href: about.qmg
+      text: "About Me"
+    - href: CV.qmd
+      text: "Resume"
 ---
 
 ## Knapp Research Lab

@@ -8,11 +8,14 @@ website:
   title: "website-demo1"
   navbar: 
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - CV.qmd
-      - projects.qmd
+    - href: index.qmd
+      text: "Home"
+    - href: projects.qmd
+      text: "Projects"
+    - href: about.qmg
+      text: "About Me"
+    - href: CV.qmd
+      text: "Resume"
 ---
 
 MIA COLANGELO
