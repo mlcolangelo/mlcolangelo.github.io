@@ -29,9 +29,11 @@ I am currently employed as an undergraduate research assistant in the Knapp Lab 
 
     -   Assisted with continued measurements such as phenology, soil moisture,
 
+![](images/Screenshot 2025-03-23 at 8.21.52 AM.png)
+
 ## ESS 330
 
-In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
+In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links and results from various labs!
 
 ### [Building a project website]()
 
@@ -39,4 +41,4 @@ In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I 
 -   Includes a github repo for access to all the code.
 -   Look at how high quality my work is!
 
-## NR 319
+## 
