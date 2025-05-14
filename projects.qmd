@@ -48,7 +48,7 @@ In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I 
 
 -   Pictured are some of the species we focused on, as well as a tibble with results of one of the tests.
 
-    ![Example tibble.](images/Screenshot%202025-05-14%20at%203.41.02%20PM.png)
+    ![Example tibble.](images/Screenshot 2025-05-14 at 3.41.02 PM.png)
 
     ![Thuja occidentalis](images/Thuja_occidentalis_-_o3nSKvyHZfEp.jpeg){width="206"} ![](images/resinosa10.jpg){width="243"}
 
@@ -85,7 +85,7 @@ In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I 
 -   In this next step for our final project, we began to draft the written portions of our report, as well as start with some data cleaning and analysis. I primarily worked on the background research and writing portions.
 -   Here's what part of our writing document looked like!
 
-![](images/Screenshot%202025-05-14%20at%204.08.25%20PM.png)
+![](images/Screenshot 2025-05-14 at 4.18.47 PM.png)
 
 ### Lab 9: Final Project Results and Discussion
 
@@ -102,8 +102,3 @@ In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I 
 ![](images/Flight%20in%20Flux%20-%20Lightning%20Presentation.jpg)
 
 ![](images/Flight%20in%20Flux%20-%20Lightning%20Presentation%20(2).jpg)
-
-```{r}
-usethis::edit_git_config()
-
-```
