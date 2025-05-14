@@ -15,11 +15,13 @@ navbar:
 
 ## Knapp Research Lab
 
-I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Dept. of Biology), and have been a part of multiple research projects.
+I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Deptartment of Biology), and have been a part of multiple research projects.
 
 -   Salsola Removal & Recovery Experiment (SRRE) Project
 
     -   Presented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.
+
+    -   Accepted to Ecological Society of America (ESA) 2025.
 
     -   Assisted with measurements of productivity, light availability, and water availability.
 

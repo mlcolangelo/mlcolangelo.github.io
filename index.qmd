@@ -3,7 +3,7 @@ title: "Mia's Website"
 about:
   template: trestles
   image-shape: rectangle
-  image-width: 5cm
+  image-width: 6cm
   links: 
     - text: LinkedIn
       href: //https://www.linkedin.com/in/mia-colangelo/
