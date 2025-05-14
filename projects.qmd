@@ -35,10 +35,72 @@ I am currently employed as an undergraduate research assistant in the Knapp Lab 
 
 In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links and results from various labs!
 
-### [Building a project website]()
+### Lab 1: Building a personal portfolio website
 
 -   In this assignment we built a static users site with Github Pages
 -   Includes a github repo for access to all the code.
 -   Look at how high quality my work is!
+
+### Lab 2: Minnesota Tree Growth
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 3: COVID Wrangling
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 4: Statistics in R
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 5: Final Project Proposals
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 6: Machine Learning Workflows
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 7: Final Projects Intro and Methods
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 8: Machine Learning Tuning
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 9: Final Project Results and Discussion
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 10: Distances and Projections
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+### Lab 11: Final Project Lightning Talks
+
+-   In this assignment we built a static users site with Github Pages
+-   Includes a github repo for access to all the code.
+-   Look at how high quality my work is!
+
+## 
 
 ## 
