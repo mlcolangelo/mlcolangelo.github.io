@@ -46,7 +46,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Deptartment of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAccepted to Ecological Society of America (ESA) 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
+    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Deptartment of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAccepted to Ecological Society of America (ESA) 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots over the growing season.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
   },
   {
     "objectID": "projects.html#building-a-project-website",
@@ -60,7 +60,7 @@
     "href": "projects.html#knapp-research-lab",
     "title": "Projects",
     "section": "",
-    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Deptartment of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAccepted to Ecological Society of America (ESA) 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
+    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Deptartment of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAccepted to Ecological Society of America (ESA) 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots over the growing season.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
   },
   {
     "objectID": "projects.html#ess-330",
@@ -109,21 +109,21 @@
     "href": "mlcolangelo.github.io/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Dept. of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
+    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Deptartment of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAccepted to Ecological Society of America (ESA) 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
   },
   {
     "objectID": "mlcolangelo.github.io/projects.html#knapp-research-lab",
     "href": "mlcolangelo.github.io/projects.html#knapp-research-lab",
     "title": "Projects",
     "section": "",
-    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Dept. of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
+    "text": "I am currently employed as an undergraduate research assistant in the Knapp Lab (Colorado State University Deptartment of Biology), and have been a part of multiple research projects.\n\nSalsola Removal & Recovery Experiment (SRRE) Project\n\nPresented findings at Front Range Student Ecology Symposium (FRSES) 2025 and CURC 2025.\nAccepted to Ecological Society of America (ESA) 2025.\nAssisted with measurements of productivity, light availability, and water availability.\nEstablished and maintained study plots.\n\nDrought Recovery Experiment (DRE) Project\n\nAssisted with continued measurements such as phenology, soil moisture,"
   },
   {
     "objectID": "mlcolangelo.github.io/projects.html#ess-330",
     "href": "mlcolangelo.github.io/projects.html#ess-330",
     "title": "Projects",
     "section": "ESS 330",
-    "text": "ESS 330\nIn the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!\n\nBuilding a project website\n\nIn this assignment we built a static users site with Github Pages\nIncludes a github repo for access to all the code.\nLook at how high quality my work is!"
+    "text": "ESS 330\nIn the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links and results from various labs!\n\nLab 1: Building a personal portfolio website\n\nIn this assignment we built a site for personal and professional use with Github Pages.\nThis is the website you’re currently on! Take a look around at the Projects, Resume, and About Me pages.\n\n\n\nLab 2: Minnesota Tree Growth\n\nFor this lab, we used a CSV file of tree growth data to determine various statistics of the trees.\nFor example, we found tree species with the highest mean age or fastest growth speed.\nPictured are some of the species we focused on, as well as a tibble with results of one of the tests.\n\n\n\nExample tibble.\n\n\n \n\n\n\nLab 3: COVID Wrangling\n\nIn this lab, we used both historical and current COVID-19 data to create a variety of informational graphics.\nTools like these could be utilized in crisis situations where effective data communication is crucial.\nAttached are some of the resulting graphs:\n\n\n\n\n\nLab 4: Statistics in R\n\nIn this statistics-based lab, we played with more of the mathematical functions that R has to offer.\nWe created a variety of types of graphs, displayed a multitude of data. Some of the resulting figures are included below:\n\n\n\n\n\n\nLab 5: Final Project Proposals\n\nIn this assignment, we came up with a variety of environmental project ideas, and did some research to find suitable data.\nWe searched multiple databases for suitable data, and came up with ideas ranging from air pollutants to bird migration. Ultimately we decided to focus on how climate change could affect bird migrations, specifically for the American Bittern (pictured below).\n\n\n\n\nLab 7: Final Projects Intro and Methods\n\nIn this next step for our final project, we began to draft the written portions of our report, as well as start with some data cleaning and analysis. I primarily worked on the background research and writing portions.\nHere’s what part of our writing document looked like!\n\n\n\n\nLab 9: Final Project Results and Discussion\n\nAfter completing our data analysis, we interpreted our findings and what they could mean for the ecological community.\nHere is one of our figures, which was ultimately included in our lightning presentation:\n\n\n\n\nLab 11: Final Project Lightning Talks\n\nFor this assignment, my project partner and I presented an abridged version of our research. We primarily discussed the motivations, methods, and results.\nHere are some key slides from our presentation:"
   },
   {
     "objectID": "mlcolangelo.github.io/projects.html#nr-319",
@@ -137,6 +137,6 @@
     "href": "mlcolangelo.github.io/about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi there! I’m Mia, a second-year undergrad at Colorado State University. I’m pursuing a B.S. in Ecosystem Science and Sustainability, with minors in Geospatial Information Science and Conservation Biology. While my academic pursuits lie in improving the well-being of our planet and its wildlife, I am also passionate about music and the arts, and am a volunteer puppy raiser for Canine Companions.\n\n\n\nMe and Future Service Dog, Aribella."
+    "text": "Hi there! I’m Mia, a second-year undergrad at Colorado State University. I’m pursuing a B.S. in Ecosystem Science and Sustainability, with minors in Geospatial Information Science and Conservation Biology. While my academic pursuits lie in improving the well-being of our planet and its wildlife, I am also passionate about music and the arts, and am a volunteer puppy raiser for Canine Companions.\n\n\n\n(Me and Future Service Dog, Aribella.)"
   }
 ]
