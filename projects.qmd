@@ -37,70 +37,68 @@ In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I 
 
 ### Lab 1: Building a personal portfolio website
 
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+-   In this assignment we built a site for personal and professional use with Github Pages.
+-   This is the website you're currently on! Take a look around at the Projects, Resume, and About Me pages.
 
 ### Lab 2: Minnesota Tree Growth
 
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+-   For this lab, we used a CSV file of tree growth data to determine various statistics of the trees.
+
+-   For example, we found tree species with the highest mean age or fastest growth speed.
+
+-   Pictured are some of the species we focused on, as well as a tibble with results of one of the tests.
+
+    ![Example tibble.](images/Screenshot 2025-05-14 at 3.41.02 PM.png)
+
+    ![Thuja occidentalis](images/Thuja_occidentalis_-_o3nSKvyHZfEp.jpeg){width="206"} ![](images/resinosa10.jpg){width="243"}
 
 ### Lab 3: COVID Wrangling
 
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+-   In this lab, we used both historical and current COVID-19 data to create a variety of informational graphics.
+-   Tools like these could be utilized in crisis situations where effective data communication is crucial.
+-   Attached are some of the resulting graphs:
+
+![](images/covd.png){width="489"}
+
+![](images/counties.png){width="490"}
 
 ### Lab 4: Statistics in R
 
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+-   In this statistics-based lab, we played with more of the mathematical functions that R has to offer.
+-   We created a variety of types of graphs, displayed a multitude of data. Some of the resulting figures are included below:
+
+![](images/000010.png){width="300"}
+
+![](images/000011.png){width="300"}
+
+![](images/000012.png){width="300"}
 
 ### Lab 5: Final Project Proposals
 
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+-   In this assignment, we came up with a variety of environmental project ideas, and did some research to find suitable data.
+-   We searched multiple databases for suitable data, and came up with ideas ranging from air pollutants to bird migration. Ultimately we decided to focus on how climate change could affect bird migrations, specifically for the American Bittern (pictured below).
 
-### Lab 6: Machine Learning Workflows
-
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+![](images/images.jpeg)
 
 ### Lab 7: Final Projects Intro and Methods
 
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+-   In this next step for our final project, we began to draft the written portions of our report, as well as start with some data cleaning and analysis. I primarily worked on the background research and writing portions.
+-   Here's what part of our writing document looked like!
 
-### Lab 8: Machine Learning Tuning
-
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+![](images/Screenshot 2025-05-14 at 4.08.25 PM.png)
 
 ### Lab 9: Final Project Results and Discussion
 
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+-   After completing our data analysis, we interpreted our findings and what they could mean for the ecological community.
+-   Here is one of our figures, which was ultimately included in our lightning presentation:
 
-### Lab 10: Distances and Projections
-
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+![](images/Flight in Flux - Lightning Presentation (1).jpg)
 
 ### Lab 11: Final Project Lightning Talks
 
--   In this assignment we built a static users site with Github Pages
--   Includes a github repo for access to all the code.
--   Look at how high quality my work is!
+-   For this assignment, my project partner and I presented an abridged version of our research. We primarily discussed the motivations, methods, and results.
+-   Here are some key slides from our presentation:
 
-## 
+![](images/Flight in Flux - Lightning Presentation.jpg)
 
-## 
+![](images/Flight in Flux - Lightning Presentation (2).jpg)
