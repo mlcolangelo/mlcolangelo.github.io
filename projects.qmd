@@ -29,7 +29,7 @@ I am currently employed as an undergraduate research assistant in the Knapp Lab 
 
     -   Assisted with continued measurements such as phenology, soil moisture,
 
-![](images/Screenshot 2025-03-23 at 8.21.52 AM.png)
+![](images/Screenshot%202025-03-23%20at%208.21.52%20AM.png)
 
 ## ESS 330
 
@@ -48,7 +48,7 @@ In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I 
 
 -   Pictured are some of the species we focused on, as well as a tibble with results of one of the tests.
 
-    ![Example tibble.](images/Screenshot 2025-05-14 at 3.41.02 PM.png)
+    ![Example tibble.](images/Screenshot%202025-05-14%20at%203.41.02%20PM.png)
 
     ![Thuja occidentalis](images/Thuja_occidentalis_-_o3nSKvyHZfEp.jpeg){width="206"} ![](images/resinosa10.jpg){width="243"}
 
@@ -85,20 +85,25 @@ In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I 
 -   In this next step for our final project, we began to draft the written portions of our report, as well as start with some data cleaning and analysis. I primarily worked on the background research and writing portions.
 -   Here's what part of our writing document looked like!
 
-![](images/Screenshot 2025-05-14 at 4.08.25 PM.png)
+![](images/Screenshot%202025-05-14%20at%204.08.25%20PM.png)
 
 ### Lab 9: Final Project Results and Discussion
 
 -   After completing our data analysis, we interpreted our findings and what they could mean for the ecological community.
 -   Here is one of our figures, which was ultimately included in our lightning presentation:
 
-![](images/Flight in Flux - Lightning Presentation (1).jpg)
+![](images/Flight%20in%20Flux%20-%20Lightning%20Presentation%20(1).jpg)
 
 ### Lab 11: Final Project Lightning Talks
 
 -   For this assignment, my project partner and I presented an abridged version of our research. We primarily discussed the motivations, methods, and results.
 -   Here are some key slides from our presentation:
 
-![](images/Flight in Flux - Lightning Presentation.jpg)
+![](images/Flight%20in%20Flux%20-%20Lightning%20Presentation.jpg)
 
-![](images/Flight in Flux - Lightning Presentation (2).jpg)
+![](images/Flight%20in%20Flux%20-%20Lightning%20Presentation%20(2).jpg)
+
+```{r}
+usethis::edit_git_config()
+
+```
